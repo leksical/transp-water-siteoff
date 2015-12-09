@@ -13,10 +13,10 @@ CONTENTS OF THIS FILE
  * Credits
  * License
  
- INTRODUCTION
+INTRODUCTION
 ------------
 
- USAGE
+USAGE
 ------------
 
 CONTRIBUTIONS
